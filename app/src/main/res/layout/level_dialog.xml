@@ -1,0 +1,62 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:visibility="visible"
+    android:id="@+id/PlayerName_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:id="@+id/PlayerName_layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp">
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/select_game_level"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+        <RadioGroup
+            android:id="@+id/rdog_level"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:gravity="center">
+            <RadioButton
+                android:id="@+id/rdo_easy"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:checked="true"
+                android:text="@string/easy"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <RadioButton
+                android:id="@+id/rdo_hard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hard"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+        </RadioGroup>
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rdog_level"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/buttonstyle"
+            android:onClick="reset"
+            android:paddingLeft="98dp"
+            android:paddingRight="58dp"
+            android:text="@string/start_game"
+            android:textSize="25sp" />
+    </RelativeLayout>
+</RelativeLayout>

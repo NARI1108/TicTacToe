@@ -1,0 +1,52 @@
+<resources>
+    <string name="single">بازی یک نفره</string>
+    <string name="Double">بازی دو نفره</string>
+    <string name="Guide">راهنمای بازی</string>
+    <string name="Contact">تماس با ما</string>
+    <string name="welcome_txt">
+        بازی دوز را می توانید با دوستان خود بازی نمایید .
+        که تیم برنامه نویسی ما در این بازی هوش مصنوعی ایجاد
+        کرده است که می توانید با آن در دو سطح ، آسان و سخت
+        بازی نمایید.
+        بازی دوز با دو مهره ای آبی  و قرمز اجرا می شود  به
+        گونه ای که اگر سه مهره هم رنگ در کنار یک دیگر قرار بگیرد
+        بازی به نفع بازیکن برنده خواهد بود
+    </string>
+    <string name="Contact_txt">
+        تیم پشتیبانی شرکت لالی پاپ در این بخش در کنار شماست تا
+        پاسخگوی مشکلات، نظرات و انتقادات شما باشد.
+        لطفاً جهت تسریع و سهولت پاسخگویی، مساله خود را در قالب یک
+        پیغام ارسال نمایید.پیغام شما بررسی شده و در اسرع وقت پاسخ
+                                                داده خواهد شد.
+                               از صبر و شکیبایی شما متشکریم.
+    </string>
+    <string name="please_enter_your_name">لطفاً نام خود را وارد کنید</string>
+    <string name="player_1">بازیکن 1</string>
+    <string name="player_2">بازیکن 2</string>
+    <string name="start_game">شروع بازی</string>
+    <string name="Game_again">بازی مجدد</string>
+    <string name="gameAgain">بازی مجدد</string>
+    <string name="select_game_level">سطح بازی را انتخاب کنید</string>
+    <string name="easy">آسان</string>
+    <string name="hard">سخت</string>
+    <string name="player2">بازیکن 2</string>
+    <string name="player1">بازیکن1</string>
+    <string name="Company">تیم توسعه دهنده لالی پاپ</string>
+    <string name="Number" translatable="false">+989366032045</string>
+    <string name="ID" translatable="false">NrAi0818</string>
+    <string name="ID_Telegram" translatable="false">Nr_Ai80</string>
+    <string name="Version">نسخه آزمایشی 13.3.1</string>
+    <string name="Zire" translatable="false">0</string>
+    <string name="Zero" translatable="false">0</string>
+    <string name="Zero_1" translatable="false">0</string>
+    <string name="Robot">ربات</string>
+    <string name="Robot_Hard">ربات</string>
+    <string name="Robot_Easy">ربات</string>
+    <string name="your_name">نام شما</string>
+    <string name="You">شما</string>
+    <string name="Your_name">نام شما</string>
+    <string name="you">شما</string>
+    <string name="app_name">دوز</string>
+    <string name="number">0014045852345</string>
+
+</resources>

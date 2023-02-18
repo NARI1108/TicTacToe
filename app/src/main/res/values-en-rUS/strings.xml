@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="single">Single Player</string>
+    <string name="Double">Double Player</string>
+    <string name="Guide">Guide Game</string>
+    <string name="Contact">Call with us</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="player_1">Player1</string>
+    <string name="player_2">Player2</string>
+    <string name="start_game">Start Game</string>
+
+    <string name="Game_again">Reset Game</string>
+    <string name="gameAgain">Rest Game</string>
+    <string name="select_game_level">Select Level The Game</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="player2">Player2</string>
+    <string name="player1">Player1</string>
+    <string name="Company">Lollipop developer team</string>
+    <string name="Version">Trial version 13.3.1</string>
+    <string name="Robot">Robot</string>
+    <string name="Robot_Hard">Robot</string>
+    <string name="Robot_Easy">Robot</string>
+    <string name="your_name">Your Name</string>
+    <string name="Your_name">Your Name</string>
+    <string name="You">" Name"</string>
+    <string name="you">" Name"</string>
+    <string name="welcome_txt">You can play Doz with your friends.         That our programming team created in this artificial intelligence game         has done that you can with it on two levels, easy and hard         play         The dose game is run with two blue and red dice         Such that if three beads of the same color are next to each other         The game will be in favor of the winning player</string>
+    <string name="Contact_txt">The support team of Lollipop company is by your side in this section         Respond to your problems, comments and criticisms.         Please, in order to speed up and facilitate the response, your question in the form of a         Send a message. Your message will be checked and answered as soon as possible                                                 will be given.                                Thank you for your patience.</string>
+</resources>
